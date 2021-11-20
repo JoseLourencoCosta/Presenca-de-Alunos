@@ -1,3 +1,3 @@
 # Presença de Alunos
 
-Projeto para inserir a presença de Alunos utilizando linguagem Java.
+Projeto do curso Mentorama para inserir a presença de Alunos utilizando linguagem Java.
